@@ -1,5 +1,39 @@
 #!/bin/bash
-chmod --reference-olleh hello
+chmod --reference=olleh hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:q
+:w
+:wq
+
 
 
 
